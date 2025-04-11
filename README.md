@@ -12,31 +12,27 @@
   Creo firmemente que el mejor entorno de trabajo es aquel donde te sientes valorado, puedes dar lo mejor de ti y contribuyes al éxito del equipo, mientras sigues desarrollando tus propias habilidades.
 </p>
 
----
+## 🛠️ Habilidades y herramientas
 
-## Habilidades y herramientas
-### 🌱 Actualmente estoy aprendiendo: <br>
-<div align="left">
-  <img src="./vue.svg" alt="Vue" height="30"/>
-  <img src="./swift.svg" alt="Swift" height="30"/>
-  <img src="./react.svg" alt="React" height="30"/>
+<div align="center">
+
+# 💻 Stack
+  <img src="./html5.svg" alt="HTML5" height="40"/>
+  <img src="./css.svg" alt="CSS" height="40"/>
+  <img src="./javascript.svg" alt="JavaScript" height="40"/>
+  <img src="./php.svg" alt="PHP" height="40"/>
+  <img src="./astro.svg" alt="Astro" height="40"/>
+  <img src="./tailwindCSS.svg" alt="TailwindCSS" height="40"/>
+  <img src="./bootstrap.svg" alt="Bootstrap" height="40"/>
+  <img src="./sql-server.svg" alt="SQL Server" height="40"/>
+  <img src="./mysql.svg" alt="MySQL" height="40"/>
+  <img src="./docker.svg" alt="Docker" height="40"/>
+
+# 🌱 Aprendiendo...
+  <img src="./vue.svg" alt="Vue" height="40"/>
+  <img src="./swift.svg" alt="Swift" height="40"/>
+  <img src="./react.svg" alt="React" height="40"/>
 </div>
-
-## 🔧 Lenguajes y herramientas
-<div align="left">
-  <img src="./html5.svg" alt="HTML5" height="30"/>
-  <img src="./css.svg" alt="CSS" height="30"/>
-  <img src="./tailwindCSS.svg" alt="TailwindCSS" height="30"/>
-  <img src="./bootstrap.svg" alt="Bootstrap" height="30"/>
-  <img src="./javascript.svg" alt="JavaScript" height="30"/>
-  <img src="./php.svg" alt="PHP" height="30"/>
-  <img src="./astro.svg" alt="Astro" height="30"/>
-  <img src="./sql-server.svg" alt="SQL Server" height="30"/>
-  <img src="./mysql.svg" alt="MySQL" height="30"/>
-  <img src="./docker.svg" alt="Docker" height="30"/>
-</div>
-
----
 
 ## 🚀 Proyectos destacados
 ### 🏋️‍♂️fitVUE
