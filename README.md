@@ -42,7 +42,7 @@
 ### 🏋️‍♂️fitVUE
 Plataforma interactiva para personas interesadas en el fitness y la vida saludable. Ofrece recomendaciones personalizadas, seguimiento del progreso y un panel de administración.
 
-![fitVUE](https://raw.githubusercontent.com/FranRD98/Fitvue/main/public/github/Landing.jpeg)  
+![fitVUE](./fitvue.jpeg)  
 🔗 [Ver proyecto](https://github.com/FranRD98/Quantum-Cars)
 
 ---
