@@ -38,7 +38,7 @@
 ### 🏋️‍♂️fitVUE
 Plataforma interactiva para personas interesadas en el fitness y la vida saludable. Ofrece recomendaciones personalizadas, seguimiento del progreso y un panel de administración.
 
-![fitVUE](https://raw.githubusercontent.com/FranRD98/fitVUE/main/public/github/Landing.jpeg)  
+![fitVUE](https://raw.githubusercontent.com/FranRD98/fitVUE/main/public/github/Login.jpeg)  
 🔗 [Ver proyecto](https://github.com/FranRD98/fitVUE)
 
 ---
