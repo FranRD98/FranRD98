@@ -38,8 +38,8 @@
 ### 🏋️‍♂️fitVUE
 Plataforma interactiva para personas interesadas en el fitness y la vida saludable. Ofrece recomendaciones personalizadas, seguimiento del progreso y un panel de administración.
 
-![fitVUE](./fitvue.jpeg)  
-🔗 [Ver proyecto](https://github.com/FranRD98/Quantum-Cars)
+![fitVUE](https://raw.githubusercontent.com/FranRD98/fitVUE/main/public/github/Landing.jpeg)  
+🔗 [Ver proyecto](https://github.com/FranRD98/fitVUE)
 
 ---
 
@@ -47,7 +47,7 @@ Plataforma interactiva para personas interesadas en el fitness y la vida saludab
 App de alquiler de coches que permite explorar, reservar y gestionar vehículos de forma intuitiva. Diseñada para usuarios y administradores.
 
 ![QuantumCars](https://raw.githubusercontent.com/FranRD98/QuantumCars/main/public/images/inicio.png)  
-🔗 [Ver proyecto](https://github.com/FranRD98/Fitvue)
+🔗 [Ver proyecto](https://github.com/FranRD98/QuantumCars)
 
 ---
 
