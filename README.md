@@ -20,18 +20,20 @@
   <img src="./html5.svg" alt="HTML5" height="40"/>
   <img src="./css.svg" alt="CSS" height="40"/>
   <img src="./javascript.svg" alt="JavaScript" height="40"/>
-  <img src="./php.svg" alt="PHP" height="40"/>
-  <img src="./astro.svg" alt="Astro" height="40"/>
-  <img src="./tailwindCSS.svg" alt="TailwindCSS" height="40"/>
   <img src="./bootstrap.svg" alt="Bootstrap" height="40"/>
+  <img src="./php.svg" alt="PHP" height="40"/>
   <img src="./sql-server.svg" alt="SQL Server" height="40"/>
   <img src="./mysql.svg" alt="MySQL" height="40"/>
+  <img src="./wordpress.svg" alt="WordPress" height="40"/>
+  <img src="./tailwindCSS.svg" alt="TailwindCSS" height="40"/>
   <img src="./docker.svg" alt="Docker" height="40"/>
+  <img src="./vue.svg" alt="Vue" height="40"/>
+  <img src="./laravel.svg" alt="Laravel" height="40"/>
 
 # 🌱 Aprendiendo...
-  <img src="./vue.svg" alt="Vue" height="40"/>
-  <img src="./swift.svg" alt="Swift" height="40"/>
+  <img src="./astro.svg" alt="Astro" height="40"/>
   <img src="./react.svg" alt="React" height="40"/>
+  <img src="./typescript.svg" alt="TypeScript" height="40"/>
 </div>
 
 ## 🚀 Proyectos destacados
