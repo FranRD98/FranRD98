@@ -25,7 +25,7 @@
   <img src="./sql-server.svg" alt="SQL Server" height="40"/>
   <img src="./mysql.svg" alt="MySQL" height="40"/>
   <img src="./wordpress.svg" alt="WordPress" height="40"/>
-  <img src="./tailwindCSS.svg" alt="TailwindCSS" height="40"/>
+  <img src="./tailwindcss.svg" alt="TailwindCSS" height="40"/>
   <img src="./docker.svg" alt="Docker" height="40"/>
   <img src="./vue.svg" alt="Vue" height="40"/>
   <img src="./laravel.svg" alt="Laravel" height="40"/>
